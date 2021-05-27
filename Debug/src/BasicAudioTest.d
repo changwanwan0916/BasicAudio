@@ -36,4 +36,3 @@ src/BasicAudioTest.doj: ../src/Filter.h
 src/BasicAudioTest.doj: ../src/WhiteNoise.h
 src/BasicAudioTest.doj: ../src/Transfunc.h
 src/BasicAudioTest.doj: ../src/RecoPara.h
-src/BasicAudioTest.doj: ../src/RandSeed.txt

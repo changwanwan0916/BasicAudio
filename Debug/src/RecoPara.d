@@ -11,5 +11,5 @@ src/RecoPara.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/in
 src/RecoPara.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/complex.h
 src/RecoPara.doj: ../src/RecoPara.h
 src/RecoPara.doj: ../src/Filter.h
-src/RecoPara.doj: ../src/TransFunc.h
 src/RecoPara.doj: ../src/BasicAudioTest.h
+src/RecoPara.doj: ../src/Transfunc.h

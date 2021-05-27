@@ -11,3 +11,4 @@ src/Transfunc.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/i
 src/Transfunc.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/complex.h
 src/Transfunc.doj: ../src/Transfunc.h
 src/Transfunc.doj: ../src/Filter.h
+src/Transfunc.doj: ../src/BasicAudioTest.h

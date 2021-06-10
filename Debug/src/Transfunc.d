@@ -1,6 +1,7 @@
 src/Transfunc.doj: ../src/Transfunc.c
 src/Transfunc.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/stdint.h
 src/Transfunc.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/yvals.h
+src/Transfunc.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/string.h
 src/Transfunc.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/stdio.h
 src/Transfunc.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/stdio_21xxx.h
 src/Transfunc.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/math.h

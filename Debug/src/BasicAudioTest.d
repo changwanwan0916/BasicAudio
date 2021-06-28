@@ -38,3 +38,6 @@ src/BasicAudioTest.doj: ../src/Transfunc.h
 src/BasicAudioTest.doj: ../src/RecoPara.h
 src/BasicAudioTest.doj: ../src/Volume.h
 src/BasicAudioTest.doj: ../src/Limiter.h
+src/BasicAudioTest.doj: ../src/Mute.h
+src/BasicAudioTest.doj: ../src/Mixter.h
+src/BasicAudioTest.doj: ../src/Delay.h

@@ -1,5 +1,5 @@
 /*
-** ADSP-21565 startup code generated on May 20, 2021 at 14:58:23.
+** ADSP-21565 startup code generated on Jun 28, 2021 at 11:15:03.
 */
 /*
 ** Copyright (C) 2000-2019 Analog Devices Inc., All Rights Reserved.

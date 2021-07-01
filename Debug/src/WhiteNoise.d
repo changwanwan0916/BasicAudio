@@ -15,6 +15,7 @@ src/WhiteNoise.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/
 src/WhiteNoise.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/sys/builtins_support.h
 src/WhiteNoise.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/builtins.h
 src/WhiteNoise.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/sys/builtins_support.h
-src/WhiteNoise.doj: ../src/Filter.h
-src/WhiteNoise.doj: ../src/BasicAudioTest.h
+src/WhiteNoise.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/Filter.h
+src/WhiteNoise.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/complex.h
 src/WhiteNoise.doj: ../src/WhiteNoise.h
+src/WhiteNoise.doj: ../src/BasicAudioTest.h

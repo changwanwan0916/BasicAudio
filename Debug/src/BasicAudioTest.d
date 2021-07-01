@@ -9,6 +9,7 @@ src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SH
 src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/sys/builtins_support.h
 src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/filter.h
 src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/complex.h
+src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/string.h
 src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/sys/platform.h
 src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/platform_include.h
 src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/cdef21565.h
@@ -32,12 +33,3 @@ src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SH
 src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/sys/builtins_support.h
 src/BasicAudioTest.doj: ../system/adi_initialize.h
 src/BasicAudioTest.doj: ../src/BasicAudioTest.h
-src/BasicAudioTest.doj: ../src/Filter.h
-src/BasicAudioTest.doj: ../src/WhiteNoise.h
-src/BasicAudioTest.doj: ../src/Transfunc.h
-src/BasicAudioTest.doj: ../src/RecoPara.h
-src/BasicAudioTest.doj: ../src/Volume.h
-src/BasicAudioTest.doj: ../src/Limiter.h
-src/BasicAudioTest.doj: ../src/Mute.h
-src/BasicAudioTest.doj: ../src/Mixter.h
-src/BasicAudioTest.doj: ../src/Delay.h

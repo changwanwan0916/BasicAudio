@@ -14,3 +14,4 @@ src/Limiter.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/inc
 src/Limiter.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/builtins.h
 src/Limiter.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/sys/builtins_support.h
 src/Limiter.doj: ../src/BasicAudioTest.h
+src/Limiter.doj: ../src/Limiter.h

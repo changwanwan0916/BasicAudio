@@ -33,3 +33,5 @@ src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SH
 src/BasicAudioTest.doj: C:/Analog\ Devices/CrossCore\ Embedded\ Studio\ 2.9.1/SHARC/include/sys/builtins_support.h
 src/BasicAudioTest.doj: ../system/adi_initialize.h
 src/BasicAudioTest.doj: ../src/BasicAudioTest.h
+src/BasicAudioTest.doj: ../src/Limiter.h
+src/BasicAudioTest.doj: ../src/WhiteNoise.h

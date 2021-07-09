@@ -35,3 +35,4 @@ src/BasicAudioTest.doj: ../system/adi_initialize.h
 src/BasicAudioTest.doj: ../src/BasicAudioTest.h
 src/BasicAudioTest.doj: ../src/Limiter.h
 src/BasicAudioTest.doj: ../src/WhiteNoise.h
+src/BasicAudioTest.doj: ../src/Filter.h
